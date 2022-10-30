@@ -1,0 +1,11 @@
+student = "Ron Weasley"
+print(student[1:3]) 
+print(student[0:2])
+print(student[3:7])
+print(student[-4:]) 
+print(student[2:-3]) 
+print(len(student)) 
+print(student.upper()) 
+print(student.lower()) 
+print(student.split()) 
+print(student.index("e")) 

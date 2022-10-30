@@ -1,0 +1,1 @@
+worker: python "talking ben/main.py"
